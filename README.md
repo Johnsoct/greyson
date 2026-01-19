@@ -61,19 +61,61 @@ I've included a personal reading list to serve as a break when needed between th
 
 ### Project list
 
-Projects slowly progress from systems I've been wanting around my home which mostly consistent of integrating off-the-shelf systems to "full pipeline" projects implementing collection, storage, analysis, visualization, insights.
+Projects slowly progress from systems I've been wanting around my home which mostly consistent of integrating off-the-shelf systems to "full pipeline" projects implementing collection, storage, analysis, visualization, and insights.
 
-*Projects are subject to change; however, once a project is started, it will be finished.
+*\*I'm going to buy a 3D printer this spring to expirement with making "hardware" for projects, such as cases, mounts, hooks, etc., and things around the farm, so any piece of a project I can make myself, I will attempt to do so.*
 
-*I'm going to buy a 3D printer this spring to expirement with making "hardware" for projects, such as cases, mounts, hooks, etc., and things around the farm, so any piece of a project I can make myself, I will attempt to do so.
+*\*Projects are subject to change.*
 
-1. NAS server
-1. Plex server
+*\*Projects order is subject to change.*
+
+#### Easy; integration of off-the-shelf products
+
 1. Outdoor, point-to-point networking setup for my barns
+1. NAS server
 1. 4K camera system for my property
-1. Tablet-based home and family management system to manage chores, schedules, smart devices, equipment maintenance, weather reports, etc.
-1. "Weather station" around my property to get real-time weather information (hardware to software)
-1. 
-1. Handheld radio
+
+#### Medium; some custom hardware and software glue, partial pipeline
+
+1. Tablet-focused home and family management system to manage chores, schedules, the greenhouse, equipment maintenance, view weather reports, etc. (think Skylight, but less expensive and extremely time consuming and less capable than a smartphone...)
+
+#### Hard; custom hardware and software implementations, full pipeline
+
+Interestingly enough, my wife and I have a big interest in gardening, mostly for self-sufficiency, and this spring, I'm converting an old 20x40 barn into a greenhouse. I'm not sure I could ask for a better opportunity to build projects which both teach me real world applications with real, useful data and are useful to my family.
+
+I'm not an expert in how specific environmental conditions affect plant growth, so as of right now, my goal is to be able to collect, store, and visualize the data in various ways to react immediately to problematic conditions and see if I can draw my own insights as to how said condition affected growth or yield; however, it's my assumption these insights take years or multiple growth cycles (in a year-around greenhouse) to produce enough data to make fact-based claims; therefore, I am going to do everything in my power to get as many systems in place as quickly as possible so I can begin collecting data...
+
+##### Collection and storage
+
+1. Weather station - temperature, wind, and light sensors for real-time temperature data around my property, especially along the perimeter of my greenhouse
+1. Greenhouse camera system - live feeds from all four corners of the greenhouse
+1. Greenhouse monitoring system - temperature, humidity, soil, and light sensors in a grid-based configuration
+1. Greenhouse watering system - automate watering schedules per bed based on the monitoring system with water usage analytics
+1. Greenhouse bed camera system - daily timelapse of each bed
+
+##### Visualization and insights
+
+###### Web application
+
+1. Interact with site maps for real-time camera and sensor information
+1. Track and view plant growth and yield
+1. View camera feeds
+1. View camera timelapse data
+1. View power consumption
+1. View sensor data
+1. View water consumption
+1. Override the automated watering system
+1. Correlate plant growth and yield with sensor data
+
+###### Alert system
+
+1. Scheduled watering did not happen
+1. Power outage
+1. Dangerous temperature
+1. Soil in bed #1 is too wet or dry
+
+###### Failure and manual override systems
+
+And, although I have no clue what this would look like, I probably need a way to interact with different parts of the system locally and a way to override the system manually...
 
 ### Documentation
