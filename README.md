@@ -61,7 +61,7 @@ I've included a personal reading list to serve as a break when needed between th
 
 ### Project list
 
-Projects slowly progress from systems I've been wanting around my home which mostly consistent of integrating off-the-shelf systems to "full pipeline" projects implementing collection -> storage -> analysis -> visualization -> insights.
+Projects slowly progress from systems I've been wanting around my home which mostly consistent of integrating off-the-shelf systems to "full pipeline" projects implementing collection, storage, analysis, visualization, insights.
 
 *Projects are subject to change; however, once a project is started, it will be finished.
 
