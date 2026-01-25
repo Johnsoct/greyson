@@ -28,7 +28,7 @@ Common names for this new role:
 
 Over the next three to five years, I'm going to teach myself the skills and gather the experience necessary to find a junior-to-mid-level RSE position.
 
-As a self-taught frontend engineer, I've made the same mistake most self-taught engineers make - spending too much time "studying" instead of building things. However, there is a tremendous amount of foundational information I am aware I don't have which I absolutely need to understand, so I'll be reading and building concurrently. I will be intentionally avoid YouTube content, but I will be utilizing AI for learning and debugging.
+As a self-taught frontend engineer, I've made the same mistake most self-taught engineers make - spending too much time "studying" instead of building things. However, there is a tremendous amount of foundational information I am aware I don't have which I absolutely need to understand, so I'll be reading and building concurrently. I will be intentionally avoiding YouTube content, but I will be utilizing AI for learning and debugging.
 
 As a new father, with another on the way, an intensive full-time job, three dogs, and a farm to manage, I can only dedicate one and a half to two hours every morning.
 
