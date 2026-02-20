@@ -43,7 +43,10 @@ I've included a personal reading list to serve as a break when needed between th
 #### Technical
 
 1. Interview Design Patterns - common algorithms and interview prep
-1. ~Pheonix Project - devops~
+1. ~Pheonix Project - devops~ - Absolutely LOVED this. Have reread two times already.
+1. ~Unicorn Project - devops~ - Absolutely LOVED this. Have reread two times already.
+1. ~The Goal - devops~ - Absolutely LOVED this.
+1. DevOps Handbook - devops
 1. Code: the Hidden Language of Computer Hardware and Software - first principles of how computers work
 1. Computer Systems: a Programmer's Perspective - deep dive into a computer's systems
 1. The Go Programming Language - my preferred, relevant "lower-level" language
